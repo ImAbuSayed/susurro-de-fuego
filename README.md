@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurro-de-fuego/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Susurro de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-de-fuego/) |
+| **Get License** | [Secure Licensing Rights for Susurro de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-de-fuego/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Apaga el celular, que la noche es nuestra
+> Ese piquete tuyo siempre me secuestra
+> Bailando en lo oscuro, tú eres la maestra
+> My baby, you got it, y siempre lo demuestra
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
