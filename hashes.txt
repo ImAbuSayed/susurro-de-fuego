@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Susurro de fuego
+
+This log tracks the cryptographic history and versioning for the song **Susurro de fuego** (susurro-de-fuego).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T05:18:00.951153 | `v1` | `7ac9902a764ea35a205fc48d661809290952d86b51d4bcdb87de95568b3bb2e2` | `bb644d17f193aeca1c1ec89418c72eb08650c035a179db7b6f8175e2e520e7f4` | `2026-06-24_susurro-de-fuego-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurro-de-fuego/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Susurro de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-de-fuego/) |
+| **Get License** | [Get a Licensing Quote for Susurro de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-de-fuego/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7ac9902a764ea35a205fc48d661809290952d86b51d4bcdb87de95568b3bb2e2` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
